@@ -4,3 +4,7 @@ parrafo #3 en main
 
 parrafo #1 user1
 parrafo #2 user1
+parrafo #1 user2
+parrafo #2 user2
+parrafo #3 user2
+parrafo #1 user3
